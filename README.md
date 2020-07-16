@@ -1,2 +1,1 @@
-# Game
-Typing Speed Game
+Typing increase game
